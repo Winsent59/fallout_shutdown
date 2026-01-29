@@ -1,3 +1,4 @@
+https://github.com/Winsent59/fallout_shutdown/blob/main/terminal.jpg?raw=true
 # Fallout Shutdown
 
 Небольшая утилита, выполненная в стилистике Fallout, предназначенная для удобного выключения компьютера.  
