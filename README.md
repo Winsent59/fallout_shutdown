@@ -3,6 +3,40 @@
 ![Fallout Shutdown Screenshot](https://github.com/Winsent59/fallout_shutdown/raw/main/terminal.jpg)
 
 # Fallout Shutdown
+================================================
+ ROBCO INDUSTRIES UNIFIED OPERATING SYSTEM
+================================================
+
+Fallout Shutdown is a small Fallout-style terminal utility
+for convenient Windows system shutdown.
+
+### Included files
+- fallout_shutdown.exe — compiled executable
+- fallout_shutdown.ps1 — PowerShell source code
+
+### Features
+- Interactive shutdown menu
+- Auto-shutdown after 10 seconds
+- Fallout terminal-style interface
+- No external dependencies
+
+### Security notice
+The source code is fully open and included.
+Some antivirus software may show false positives due to:
+- system-level shutdown commands
+- lack of digital signature
+- manual compilation
+
+If you prefer, you can build the executable yourself from source.
+
+### VirusTotal
+The executable was scanned on VirusTotal.
+False positives are possible for small system utilities.
+
+================================================
+
+
+# Fallout Shutdown
 
 Небольшая утилита, выполненная в стилистике Fallout, предназначенная для удобного выключения компьютера.  
 Программа представляет собой PowerShell‑скрипт, который был скомпилирован в `.exe` для удобного запуска.
