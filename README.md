@@ -1,4 +1,4 @@
-## 🖼
+## 
 
 ![Fallout Shutdown Screenshot](https://github.com/Winsent59/fallout_shutdown/raw/main/terminal.jpg)
 
